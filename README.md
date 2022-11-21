@@ -1,4 +1,6 @@
-# Running CARLA simulator on Google Colab
+# [Using a remote desktop or SSH is now disallowed from Colab runtimes](https://research.google.com/colaboratory/faq.html)
+
+## Running CARLA simulator on Google Colab
 
 [Carla](https://github.com/carla-simulator/carla) is an open-source simulator for autonomous driving research.
 
